@@ -9,6 +9,12 @@ The workflow creates a 3:4 two-panel composition:
 
 It also includes a city cultural-product mode for magnets, stationery, colorful DIY kits, souvenir objects, and food-themed visual concepts.
 
+## Examples
+
+| Riverside tower | Classic car and skyline |
+| --- | --- |
+| ![Nanning riverside tower calligram](examples/nanning-river-tower-example.jpg) | ![Nanning classic car calligram](examples/nanning-classic-car-example.jpg) |
+
 ## Install
 
 Clone this repository, then place the repository folder in your Codex skills directory:
